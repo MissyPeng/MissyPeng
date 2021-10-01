@@ -35,9 +35,4 @@ Welcome to my page!
 </p>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanyuanPong&theme=radical&bg_color=bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-
-
-#### [)](
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissyPeng&show_icons=true&theme=radical)
