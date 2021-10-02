@@ -16,7 +16,7 @@ Welcome to my page!
 
 **About me**
 
-- 🔭 I'm a Front-end developer working in **China, Xinxiang**
+- 🔭 I'm a Front-end developer working in **China, Henan**
 - 🌱 I'm currently learning Vue and Typescript
 - 📖 I am currently reading Professional JavaScript for Web Developers by Matt Frisbie
 - 📝 I regulary write technical articles for <a href="https://blog.csdn.net/Superman_peng">csdn</a>
