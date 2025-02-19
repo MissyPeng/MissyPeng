@@ -16,9 +16,8 @@ Welcome to my page!
 
 **About me**
 
-- 🔭 I'm a Front-end developer working in **China, Henan**
-- 🌱 I'm currently learning Vue and Typescript
-- 📖 I am currently reading Professional JavaScript for Web Developers by Matt Frisbie
+- 🔭 I'm a Front-end developer working in **China, Shanghai**
+- 🌱 I'm currently learning React and Typescript
 - 📝 I regulary write technical articles for <a href="https://blog.csdn.net/Superman_peng">csdn</a>
 - 💬 ask me about anything, i am happy to help
 - ⚡ My hobbies are dancing and running
