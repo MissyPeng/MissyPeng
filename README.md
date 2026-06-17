@@ -7,7 +7,7 @@
 	<a href="https://twitter.com/z2candie">
 	  <img alt="MissyPeng's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 	</a> •  
-	<a href="https://www.linkedin.com/in/missy-peng-7b0028212/">
+	<a href="https://www.linkedin.com/in/missy-peng-98694b2b5">
 	  <img alt="MissyPeng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 	</a>
 </p>
@@ -17,10 +17,8 @@ Welcome to my page!
 **About me**
 
 - 🔭 I'm a Front-end developer working in **China, Shanghai**
-- 🌱 I'm currently learning React and Typescript
-- 📝 I regulary write technical articles for <a href="https://blog.csdn.net/Superman_peng">csdn</a>
+- 🌱 I'm currently learning Langchain and Rag
 - 💬 ask me about anything, i am happy to help
-- ⚡ My hobbies are dancing and running
 
 **Things I code with**
 
@@ -47,9 +45,3 @@ Welcome to my page!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MissyPeng&theme=radical&bg_color=bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-**My latest blog posts**
-- [Vue2响应式原理解析和实现](https://blog.csdn.net/Superman_peng/article/details/120478138?spm=1001.2014.3001.5501)
-- [JS 原型与原型链](https://blog.csdn.net/Superman_peng/article/details/119079065?spm=1001.2014.3001.5501)
-- [JS this指向以及call、apply、bind](https://blog.csdn.net/Superman_peng/article/details/119282205?spm=1001.2014.3001.5501)
-- [高德WMTS图层 调用天地图瓦片地图](https://blog.csdn.net/Superman_peng/article/details/119654066?spm=1001.2014.3001.5501)
-- [H5端 调起WhatsApp选择联系人以及给固定联系人进行内容分享](https://blog.csdn.net/Superman_peng/article/details/118269920?spm=1001.2014.3001.5501)
