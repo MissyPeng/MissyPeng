@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Missy Peng</h1>
 
-<p align="center">
-	<a href="https://github.com/MissyPeng">
-	  <img alt="MissyPeng's github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
-	</a> • 
-	<a href="https://twitter.com/z2candie">
-	  <img alt="MissyPeng's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-	</a> •  
-	<a href="https://www.linkedin.com/in/missy-peng-98694b2b5">
-	  <img alt="MissyPeng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-	</a>
-</p>
-
 Welcome to my page!
 
 **About me**
